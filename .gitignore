@@ -1,0 +1,12 @@
+Debug/
+Release/
+bin/
+obj/
+.vs/
+*.vsidx
+*.testlog
+*.manifest
+*.props
+*.editorconfig
+*.cache
+*.targets
